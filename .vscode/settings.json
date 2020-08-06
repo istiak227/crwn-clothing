@@ -1,9 +1,0 @@
-{
-    "terminal.integrated.cursorBlinking": true,
-    "workbench.colorCustomizations": {
-        "terminalCursor.foreground":"#0ac913",
-        "terminalCursor.background": "#0000ff"
-    },
-    "workbench.colorTheme": "Night Owl",
-    "workbench.preferredDarkColorTheme": "Night Owl"
-}
